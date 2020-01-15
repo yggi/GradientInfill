@@ -1,0 +1,10 @@
+# In PrusaSlicer:
+
+enable "print -> output Options -> verbose gcode"
+
+enable "printer -> general -> relative E distances"
+
+
+# Code:
+
+Cleanup continues/ last position
